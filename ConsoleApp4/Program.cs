@@ -10,7 +10,8 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Pozdrav dmilet21, od warbossy-a");
         }
     }
 }
+/*ovo je komentira warbossy*/
