@@ -8,5 +8,7 @@ namespace ConsoleApp4
 {
     class Class1
     {
+        public void Prazno()
+            { Console.WriteLine("REEEEEE"); }
     }
 }
